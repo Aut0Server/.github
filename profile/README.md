@@ -17,5 +17,4 @@ Want to learn more? Head to https://autoserver.zc.al or email support@autoserver
 
 ⠀
 ⠀
-⠀
 **Special thanks to dual.my for our domain! Check them out at https://dual.my.**
