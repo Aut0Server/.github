@@ -15,6 +15,6 @@ by default to delete or rebuild a server.
 
 Want to learn more? Head to https://autoserver.zc.al or email support@autoserver.zc.al
 
-⠀
-⠀
+
+
 **Special thanks to dual.my for our domain! Check them out at https://dual.my.**
